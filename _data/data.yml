@@ -34,7 +34,6 @@ skills:
       - Docker
       - Kubernetes 
 
-
 # Experience
 experience:
   - role: Machine Learning Engineer
@@ -47,13 +46,10 @@ experience:
 
 publications:
   - title: Olive Leaf Infection Detection using the Cloud-Edge Continuum.
-    authors: Themistoklis Sarantakos,Daniel Mauricio Jimenez Gutierrez,Dimitrios
-Amaxilatis
-    conference: The International Symposium on Algorithmic Aspects of
-Cloud Computing
+    authors: Themistoklis Sarantakos, Daniel Mauricio Jimenez Gutierrez, Dimitrios Amaxilatis
+    conference: The International Symposium on Algorithmic Aspects of Cloud Computing
 
-  - title: Filling in the Blanks: Applying Data Imputation in incomplete
-Water Metering Data
-    authors: Dimitrios Amaxilatis, Themistoklis Sarantakos, Ioannis Chatzigiannakis,
-Georgios Mylonas
+  - title: "Filling in the Blanks: Applying Data Imputation in Incomplete Water Metering Data"
+    authors: Dimitrios Amaxilatis, Themistoklis Sarantakos, Ioannis Chatzigiannakis, Georgios Mylonas
+
 
