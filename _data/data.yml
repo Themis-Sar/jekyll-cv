@@ -20,7 +20,8 @@ experience:
         description: >
           ELEGANT develops innovative software solutions addressing core IoT and Big Data challenges: interoperability, reliability, and cybersecurity. It features lightweight virtualization, AI-assisted orchestration, and dynamic code migration to support seamless IoT/Big Data operations end-to-end.
         link: https://cordis.europa.eu/project/id/957286
-     - title: Project AC3 – Agile and Cognitive Cloud-edge Continuum Management (EU-funded)
+
+      - title: Project AC3 – Agile and Cognitive Cloud-edge Continuum Management (EU-funded)
         description: >
           AC3 leverages AI and Machine Learning to create dynamic profiles of application traffic and context to manage microservice placement across cloud-edge infrastructure. Profiles use Semantic Web and ontologies to support lifecycle actions such as migration and replication in response to resource usage.
         link: https://ac3-project.eu/
