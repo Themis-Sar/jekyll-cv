@@ -34,6 +34,15 @@ skills:
       - Docker
       - Kubernetes 
 
+# Profile
+profile: |
+  Detail-oriented Machine Learning Engineer with experience in EU-funded 
+  research projects and cloud-edge AI deployments. Skilled in Python, C++, cloud platforms 
+  (Google Cloud, AWS), and deep learning frameworks such as TensorFlow and PyTorch. 
+  Proven track record in applying AI to real-world problems in IoT and 6G networks. 
+  
+
+
 # Experience
 experience:
   - role: Machine Learning Engineer
