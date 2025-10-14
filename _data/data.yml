@@ -1,98 +1,55 @@
-# Personal Info
-name: Themistoklis Sarantakos
-email: themis@gmail.com
-phone: +30 6999999999
-github: https://github.com/Themis-Sar
+name: Themis Sarantakos
 support_dark_mode: true
 fork: true
 
-# Work Experience
-experience:
-  - company: Athena Research Center (ISI/Archimedes)
-    role: Junior Researcher
-    time: " 2025 – Present "
+# Sidebar
+contact:
+  email: themis@gmail.com
+  github: https://github.com/Themis-Sar
+  phone: 6999999999
 
-  - company: Spark Works (SPARKS)
-    role: Machine Learning Engineer
-    time: " 2021 - Present"
-    projects:
-      - title: Project ELEGANT – EU-funded
-        description: >
-          ELEGANT develops innovative software solutions addressing core IoT and Big Data challenges: interoperability, reliability, and cybersecurity. It features lightweight virtualization, AI-assisted orchestration, and dynamic code migration to support seamless IoT/Big Data operations end-to-end.
-        link: https://cordis.europa.eu/project/id/957286
+languages:
+  - idiom: English
+  - idiom: Italian
 
-      - title: Project AC3 – Agile and Cognitive Cloud-edge Continuum Management (EU-funded)
-        description: >
-          AC3 leverages AI and Machine Learning to create dynamic profiles of application traffic and context to manage microservice placement across cloud-edge infrastructure. Profiles use Semantic Web and ontologies to support lifecycle actions such as migration and replication in response to resource usage.
-        link: https://ac3-project.eu/
-
-      - title: Project 6G-DALI – AI for 6G Networks (EU-funded)
-        description: >
-          6G-DALI provides an end-to-end reference framework to support AI integration in 6G networks. It delivers on-demand AI testing services, high-quality open datasets, and a digital twin platform for AI data generation tailored to 6G scenarios.
-        link: https://6gdali.eu/
-
-# Education
 education:
+  - degree: MSc in Human Computer Interaction
+    university: University of Patras
+
   - degree: BSc in Mathematics
     university: University of Patras
 
-  - degree: High School Diploma
-    university: Italian School of Athens
-
-# Skills
 skills:
-  - category: Programming Languages
-    skill:
+  - category: Backend
+    skill: 
       - Python
+      - Go
       - C++
-      - GO
-      - HTML
-      - CSS
-
-  - category: Libraries & Frameworks
+  - category: Frontend
     skill:
-      - TensorFlow
-      - PyTorch
-      - Keras
-      - Pandas
-      - NumPy
-      - Matplotlib
-      - Seaborn
-      - OpenCV
-
-  - category: Cloud Platforms
+      - Html
+      - Css
+  - category: DevOps
     skill:
-      - Google Cloud (Certified Cloud Practitioner, Certified Cloud Architect)
-      - AWS (Certified Cloud Practitioner)
+      - Docker
+      - Kubernetes 
 
-# Languages
-languages:
-  - idiom: English
+# Experience
+experience:
+  - role: Machine Learning Engineer
+    time: 2021-Present
+    company: Spark Works
+  
+  - role: Researcher
+    time: 2025-Present
+    company: Athena Research Center
 
-  - idiom: Italian
-
-# Publications
 publications:
-  - title: Olive Leaf Infection Detection using the Cloud-Edge Continuum
+  - title: Olive Leaf Infection Detection using the Cloud-Edge Continuum.
     authors: Themistoklis Sarantakos, Daniel Mauricio Jimenez Gutierrez, Dimitrios Amaxilatis
-    conference: International Symposium on Algorithmic Aspects of Cloud Computing (AlgoCloud)
-    note: Awarded Best Student Paper
-
-  - title: Edge-Enabled Machine Learning for Solar Power Production Forecasting
-    authors: Dimitrios Amaxilatis, Ioannis Chatzigiannakis, Themistoklis Sarantakos
-    conference: International Symposium on Algorithmic Aspects of Cloud Computing (AlgoCloud)
-
-  - title: A Tool to Facilitate the Design of Smart Contracts in Smart Water Distribution Networks
-    authors: Themistoklis Sarantakos, Dimitrios Amaxilatis, Antonino Pagano, Domenico Garlisi, Redemptor Laceda Taloma, Tiziana Cattai
+    conference: The International Symposium on Algorithmic Aspects of Cloud Computing
 
   - title: "Filling in the Blanks: Applying Data Imputation in Incomplete Water Metering Data"
     authors: Dimitrios Amaxilatis, Themistoklis Sarantakos, Ioannis Chatzigiannakis, Georgios Mylonas
 
-# Awards
-awards:
-  - title: Best Student Paper Award
-    event: "International Symposium on Algorithmic Aspects of Cloud Computing"
-
-  - title: Finalist - AI Competition
-    event: "2nd Artificial Intelligence Competition, University of Patras (AI-HUB)"
 
