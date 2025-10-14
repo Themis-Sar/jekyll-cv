@@ -10,11 +10,11 @@ fork: true
 experience:
   - company: Athena Research Center (ISI/Archimedes)
     role: Junior Researcher
-    time: Jul 2025 – Present
+    time: " 2025 – Present "
 
   - company: Spark Works (SPARKS)
     role: Machine Learning Engineer
-    time: Oct 2021 – Present
+    time: " 2021 - Present"
     projects:
       - title: Project ELEGANT – EU-funded
         description: >
